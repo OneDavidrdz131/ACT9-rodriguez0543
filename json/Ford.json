@@ -1,0 +1,31 @@
+[
+  {
+    "rating" : "4.1",
+    "title" : "Ford Mustang 67",
+    "text" : "Lorem Ipsum",
+    "img" : "img/FordMustang67.jpg",
+    "audio" : "1.mp3"
+  },
+    {
+    "rating" : "4.0",
+    "title" : "Ford Focus rs",
+    "text" : "Lorem Ipsum",
+    "img" : "img/FordFocusRs.jpg",
+    "audio" : "2.mp3"
+  },
+  
+    {
+    "rating" : "4.7",
+    "title" : "Ford Gt",
+    "text" : "Lorem Ipsum",
+    "img" : "img/Fordgt24.jpg",
+    "audio" : "2.mp3"
+  },
+    {
+    "rating" : "4.5",
+    "title" : "Ford Mustang shelby",
+    "text" : "Lorem Ipsum",
+    "img" : "img/shelby.jpg",
+    "audio" : "2.mp3"
+  }
+]
